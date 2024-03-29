@@ -10,3 +10,5 @@
 
 🐈 Fun fact: I have a cat named Brick
 
+
+[![Amarylis's GitHub stats](https://github-readme-stats.vercel.app/api?username=walcotttt)](https://github.com/walcott/github-readme-stats)
